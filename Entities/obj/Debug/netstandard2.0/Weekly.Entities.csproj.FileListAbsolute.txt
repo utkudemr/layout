@@ -1,0 +1,11 @@
+C:\Users\Utku Demir\source\repos\Weekly\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\source\repos\Weekly\Entities\obj\Debug\netstandard2.0\Weekly.Entities.csprojAssemblyReference.cache
+C:\Users\Utku Demir\source\repos\Weekly\Entities\obj\Debug\netstandard2.0\Weekly.Entities.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\source\repos\Weekly\Entities\obj\Debug\netstandard2.0\Weekly.Entities.AssemblyInfo.cs
+C:\Users\Utku Demir\source\repos\Weekly\Entities\bin\Debug\netstandard2.0\Weekly.Entities.deps.json
+C:\Users\Utku Demir\source\repos\Weekly\Entities\bin\Debug\netstandard2.0\Weekly.Entities.dll
+C:\Users\Utku Demir\source\repos\Weekly\Entities\bin\Debug\netstandard2.0\Weekly.Entities.pdb
+C:\Users\Utku Demir\source\repos\Weekly\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\source\repos\Weekly\Entities\obj\Debug\netstandard2.0\Weekly.Entities.csproj.CopyComplete
+C:\Users\Utku Demir\source\repos\Weekly\Entities\obj\Debug\netstandard2.0\Weekly.Entities.dll
+C:\Users\Utku Demir\source\repos\Weekly\Entities\obj\Debug\netstandard2.0\Weekly.Entities.pdb
